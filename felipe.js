@@ -1,2 +1,4 @@
-const menssager = "botafogo"
-console.log(menssager)
+let exemplo1 = "1"
+let exemplo2 = 1
+
+console.log(exemplo1+exemplo1)
